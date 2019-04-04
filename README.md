@@ -19,6 +19,6 @@ Third observation we have : Theme = Population Density and Cities = Athens , New
 
 And last but not least, fourth observation : Theme = Traffic and Cities = Athens , London , Paris.
 
-https://github.com/Hara-Syrpi/Urban-Observatory/blob/master/Urban%20Observatory/U_O%20-%20Traffic.png
+![Image of fourth observation](https://github.com/Hara-Syrpi/Urban-Observatory/blob/master/Urban%20Observatory/U_O%20-%20Traffic.png)
 
 In every single example, I chose the themes and the cities by luck just to show you how Urban Observatory works!! 
